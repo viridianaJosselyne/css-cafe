@@ -1,0 +1,59 @@
+.menu {
+  max-width: 600px;
+  margin: 30px auto;
+  padding: 20px;
+  text-align: center;
+  background-color: rgba(255, 255, 255, 0.85);
+}
+
+
+section{
+    background-color: beige;
+}
+body{
+    background-image: url(imagenes/fondo.jpg);
+}
+
+.established {
+  font-style: italic;
+}
+
+
+.item {
+  display: flex;
+  justify-content: space-between;
+  margin: 8px 0;
+}
+
+.flavor{
+  width: 70%;
+  text-align: left;
+  background-image: url(imagenes/helado.png);
+  width: 20px;
+}
+
+.toppings {
+  width: 70%;
+  text-align: left;
+}
+
+.price {
+  width: 30%;
+  text-align: right;
+}
+
+
+h2 {
+    font-family: Impact;
+    color: rgb(239, 132, 2);
+}
+
+
+
+a {
+  color: #b05774;
+}
+
+a:hover {
+  color: #ff69b4;
+}
