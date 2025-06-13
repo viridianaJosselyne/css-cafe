@@ -25,10 +25,17 @@ body{
   margin: 8px 0;
 }
 
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    width: 50px;
+}
 .flavor{
   width: 70%;
   text-align: left;
-  background-image: url(imagenes/helado.png);
+
   width: 20px;
 }
 
